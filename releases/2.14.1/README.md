@@ -9,6 +9,7 @@
 - **Faster Route Loading** - Core app pages now lazy-load so first load is lighter and navigation scales better.
 - **About Changelog Refresh** - About page changelog is now data-driven and deferred for faster initial rendering.
 - **Image Loading Improvements** - Artwork and avatar surfaces now use lazy loading and async decoding for better performance on large pages.
+- **Mobile Track Card Polish** - Mobile track rows now keep artwork, title, artist, user, likes, and listens aligned with tighter spacing, including reduced extra padding when your own like is present.
 
 ## Notes
 

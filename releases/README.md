@@ -4,7 +4,7 @@ All public-facing release notes are listed here. Each version links to a detaile
 
 | Version | Date | Highlights |
 |---------|------|------------|
-| [2.14.1](2.14.1/) | September 2026 | Angular 21 + .NET 10 upgrade, route lazy loading, data-driven changelog |
+| [2.14.1](2.14.1/) | September 2026 | Angular 21 + .NET 10 upgrade, route lazy loading, data-driven changelog, mobile track card polish |
 | [2.13.5](2.13.5/) | September 2026 | Feedback keyboard submit, login prompt link, likes/listens UI polish |
 | [2.13.4](2.13.4/) | August 2026 | Domain checks before magic links, access denied routing |
 | [2.13.3](2.13.3/) | July 2026 | Privacy policy, cookie notice, nav scroll improvements |
