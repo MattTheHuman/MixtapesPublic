@@ -4,6 +4,11 @@ All public-facing release notes are listed here. Each version links to a detaile
 
 | Version | Date | Highlights |
 |---------|------|------------|
+| [2.13.5](2.13.5/) | September 2026 | Feedback keyboard submit, login prompt link, likes/listens UI polish |
+| [2.13.4](2.13.4/) | August 2026 | Domain checks before magic links, access denied routing |
+| [2.13.3](2.13.3/) | July 2026 | Privacy policy, cookie notice, nav scroll improvements |
+| [2.13.2](2.13.2/) | June 2026 | Amazon SES email delivery for magic links |
+| [2.13.1](2.13.1/) | June 2026 | Security hardening and stability improvements |
 | [2.12.1](2.12.1/) | May 2026 | GitHub Issues integration for feedback tracking |
 | [2.11.2](2.11.2/) | May 2026 | Unlike fix, leaner track data |
 | [2.11.1](2.11.1/) | May 2026 | Dynamic Open Graph metadata for link sharing |
