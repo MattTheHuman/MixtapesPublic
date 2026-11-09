@@ -4,6 +4,7 @@ All public-facing release notes are listed here. Each version links to a detaile
 
 | Version | Date | Highlights |
 |---------|------|------------|
+| [2.17.0](2.17.0/) | November 2026 | Spotify playlist automation, release-gated creation, playlist recovery checks, and security hardening updates |
 | [2.16.0](2.16.0/) | November 2026 | Groundwork for new mixtape formats, anonymous/description visibility controls, admin styling refresh |
 | [2.15.0](2.15.0/) | October 2026 | Security maintenance release, dependency vulnerability remediation, image pipeline migration to SkiaSharp |
 | [2.14.2](2.14.2/) | October 2026 | Create-mixtape save reliability fix, role-check response fix |
